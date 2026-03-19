@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "fairy tale story",
+  "base_artist": "Aice room",
+  "createdAt": "2026-03-19T07:00:00.550925Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Football Fairy Story",
+      "artist": "The Adicts",
+      "has_synced": true,
+      "path": "select/01_Football_Fairy_Story_The_Adicts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Snow Fairy Story",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/02_Snow_Fairy_Story_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Snow Fairy Story",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/03_Snow_Fairy_Story_40mP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Football Fairy Story",
+      "artist": "The Adicts",
+      "has_synced": true,
+      "path": "select/04_Football_Fairy_Story_The_Adicts.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Snow Fairy Story (オーケストラ ver.)",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/05_Snow_Fairy_Story_(オーケストラ_ver.)_40mP.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fairy Story",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/06_Fairy_Story_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Footbal Fairy Story",
+      "artist": "The Adicts",
+      "has_synced": true,
+      "path": "select/07_Footbal_Fairy_Story_The_Adicts.lrc"
+    }
+  ]
+}
